@@ -1,0 +1,8 @@
+[
+    {"nombre": "Carlos",
+    "edad": 25,
+    "sexo": "M"},
+    {"nombre":"Ana",
+    "edad": 20,
+    "sexo": "F"}
+]
